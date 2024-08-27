@@ -1,6 +1,6 @@
 # LeetCode solve
 
-My solved codes from LeetCode
+My solved codes from LeetCode 
 
 [My Profile Link](https://leetcode.com/u/Pratyay008/)
 
