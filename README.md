@@ -1,6 +1,6 @@
 # LeetCode solve
 
-My solved codes from LeetCode using different languages.
+My solved codes from LeetCode using different languages
 
 [My Profile Link](https://leetcode.com/u/Pratyay-Mondal/)
 
